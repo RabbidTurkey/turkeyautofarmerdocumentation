@@ -27,6 +27,15 @@ This is what the contents of your new folder should look like:
 1. Open up command prompt on your device
 2. Enter the following commands one at a time: `pip install pure-python-adb`
 
+# Setting up emulator
+1. Go to your emulator settings
+2. Make sure your emulator's dimensions are 1280x720 pixels
+3. Go to `other settings` in emulator settings and enable ADB debugging.
+4. Click on save
+
+# Setting up game
+1. Just save your 5th army preset as what you want to farm with. For example t2 cav, or t4 cav
+
 # Customizing your autofarmer
 You will have received 3 files from me - `autofarmer.py`, `coords.txt` and `settings.json`
 `autofarmer.py` - ignore
@@ -37,5 +46,9 @@ You will have received 3 files from me - `autofarmer.py`, `coords.txt` and `sett
  > travel_speed - your travel speed (can be found in your game settings under Expedition boosts)
  > troop_tier - the tier of troops you want to farm with, so t1/t2/t3/t4
  > troop_form - the form of troops you want to farm with, choose cavalry ofc
+Example:
 ![image](https://github.com/RabbidTurkey/tutuautofarmerdocs/assets/76893259/ec8cbb88-515f-433f-83e9-78b9ceb581a5)
+
+# RUN THE AUTOFARMER
+You're finally good to go!! You can create a shortcut for the `autofarmer.py` file and run it whenever you want. Follow the prompts once you run it, and you should be up and running!
 
