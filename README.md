@@ -38,10 +38,12 @@ This is what the contents of your new folder should look like:
 
 # Customizing your autofarmer
 You will have received 3 files from me - `autofarmer.py`, `coords.txt` and `settings.json`
-`autofarmer.py` -> ignore
-`coords.txt` -> this is the list of all your coords. Save them in an x y format. Image attached below for reference (coord list with coordinates of 2 castles):
+1. `autofarmer.py` -> ignore
+2. `coords.txt` -> this is the list of all your coords. Save them in an x y format. Image attached below for reference (coord list with coordinates of 2 castles):
+
 ![image](https://github.com/RabbidTurkey/tutuautofarmerdocs/assets/76893259/06e188fa-154a-4bf0-a8d6-bcda90a4144c)
-`settings.json` is pretty self explanatory: 
+
+3. `settings.json` is pretty self explanatory: 
  - start_position - your castle's coordinates
  - travel_speed - your travel speed (can be found in your game settings under Expedition boosts)
  - troop_tier - the tier of troops you want to farm with, so t1/t2/t3/t4
