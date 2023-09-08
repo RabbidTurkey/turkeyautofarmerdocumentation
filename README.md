@@ -48,6 +48,7 @@ You will have received 3 files from me - `autofarmer.py`, `coords.txt` and `sett
  - travel_speed - your travel speed (can be found in your game settings under Expedition boosts)
  - troop_tier - the tier of troops you want to farm with, so t1/t2/t3/t4
  - troop_form - the form of troops you want to farm with, choose cavalry ofc
+
 Example:
 ![image](https://github.com/RabbidTurkey/tutuautofarmerdocs/assets/76893259/ec8cbb88-515f-433f-83e9-78b9ceb581a5)
 
