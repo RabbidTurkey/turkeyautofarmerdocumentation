@@ -5,7 +5,8 @@
 ![image](https://github.com/RabbidTurkey/tutuautofarmerdocs/assets/76893259/0b28e5d3-ffcc-4e90-b754-1d6727b0e4bb)
 
 2. Scroll down to the bottom of the page and download the installer (should be called Windows installer (64-bit))
-3. Proceed with installation process. Make sure to tick the `ADD TO PATH` checkbox before beginning installation
+![image](https://github.com/RabbidTurkey/tutuautofarmerdocs/assets/76893259/4eead1cc-e68a-4481-a746-f7e83252b836)
+3. Proceed with installation process. Make sure to tick the `ADD TO PATH` checkbox before beginning installation - only if you're asked
 
 # Installing ADB
 1. Go to this link: https://developer.android.com/tools/releases/platform-tools
@@ -49,7 +50,6 @@ You will have received 3 files from me - `autofarmer.py`, `coords.txt` and `sett
  - troop_tier - the tier of troops you want to farm with, so t1/t2/t3/t4
  - troop_form - the form of troops you want to farm with, choose cavalry ofc
 
-Example:
 ![image](https://github.com/RabbidTurkey/tutuautofarmerdocs/assets/76893259/ec8cbb88-515f-433f-83e9-78b9ceb581a5)
 
 # RUN THE AUTOFARMER
